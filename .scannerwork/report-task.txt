@@ -1,0 +1,6 @@
+projectKey=my-nodejs-project
+serverUrl=https://devops.alacritysys.com/sonar
+serverVersion=9.9.6.92038
+dashboardUrl=https://devops.alacritysys.com/sonar/dashboard?id=my-nodejs-project
+ceTaskId=AZDFgMJzxc-b9qacgpxq
+ceTaskUrl=https://devops.alacritysys.com/sonar/api/ce/task?id=AZDFgMJzxc-b9qacgpxq
